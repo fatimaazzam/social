@@ -18,7 +18,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/social/dwitter/templates/base.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/social/dwitter/templates/profile.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/social/dwitter/templates/profile_list.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/social/dwitter/urls.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/social/dwitter/views.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/social/social/settings.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/social/social/urls.py">
           <value>
             <set />
           </value>
