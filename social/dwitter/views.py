@@ -27,3 +27,5 @@ def profile(request, pk):
             current_user_profile.follows.remove(profile)
         current_user_profile.save()
     return render(request, "profile.html", {"profile": profile})
+
+
