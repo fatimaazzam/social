@@ -1,10 +1,21 @@
 # dwitter/views.py
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import Profile
+from .forms import DweetForm
 
 
 def dashboard(request):
-    return render(request, "base.html")
+    if request.method == "POST":
+        form = DweetForm(request.POST)
+        if form.is_valid():
+            dweet = form.save(commit=False)
+            dweet.user = request.user
+            dweet.save()
+            return redirect('dwitter:dashboard')
+    else:
+        
+        form = DweetForm()
+    return render(request, "dashboard.html", {"form": form})
 
 
 def profile_list(request):
@@ -27,5 +38,6 @@ def profile(request, pk):
             current_user_profile.follows.remove(profile)
         current_user_profile.save()
     return render(request, "profile.html", {"profile": profile})
+
 
 

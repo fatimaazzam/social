@@ -13,12 +13,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/social/dwitter/forms.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/social/dwitter/models.py">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/social/dwitter/templates/base.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/social/dwitter/templates/dashboard.html">
           <value>
             <set />
           </value>
