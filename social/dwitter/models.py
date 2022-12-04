@@ -13,7 +13,6 @@ class Profile(models.Model):
             symmetrical=False,
             blank=True
             )
-
     def __str__(self):
         return self.user.username
 
