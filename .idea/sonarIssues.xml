@@ -8,6 +8,76 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/admin.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/models.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/templates/base.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/templates/card.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/templates/card_list.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/templates/cards/base.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/templates/cards/card.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/templates/cards/card_form.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/templates/cards/card_list.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/templates/cards/navigation.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/urls.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/cards/views.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/flashcards/settings.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../flashcards/flashcards/flashcards/urls.py">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/social/dwitter/admin.py">
           <value>
             <set />
