@@ -17,7 +17,6 @@ class Profile(models.Model):
     def __str__(self):
         return self.user.username
 
-
 @receiver(post_save, sender=User)
 def create_profile(sender, instance, created, **kwargs):
     if created:
